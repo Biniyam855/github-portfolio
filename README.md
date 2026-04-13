@@ -70,21 +70,21 @@ The goal of this project is to:
 
 ## 🔗 Live Demo
 
-👉 Add your live link here  
+(https://ben-tech1.netlify.app/)  
 
 ---
 
 ## 📸 Preview
 
-Add screenshots or GIFs here  
+<img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/0764b36e-6a87-47ee-ab94-974a239d5f36" />
+ 
 
 ---
 
 ## 📬 Contact
 
-- Email: your-email@example.com  
-- LinkedIn: your-linkedin-profile  
-- Portfolio: your-portfolio-link  
+- Email: mamobiniyam4@gmail.com  
+- Portfolio: (https://ben-tech1.netlify.app/)   
 
 ---
 
