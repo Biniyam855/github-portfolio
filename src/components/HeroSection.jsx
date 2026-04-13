@@ -1,3 +1,4 @@
+import video from "../assets/Videos/v.mp4";
 import { motion } from "framer-motion";
 
 export default function HeroSection() {
@@ -48,7 +49,7 @@ export default function HeroSection() {
       playsInline
       className="w-full h-full object-cover"
     >
-      <source src="public/Videos/v.mp4" type="video/mp4" />
+      <source src={video} type="video/mp4" />
     </video>
 
   </motion.div>

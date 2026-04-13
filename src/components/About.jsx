@@ -1,3 +1,4 @@
+import image from "../assets/Images/image.png"
 import {useRef, useEffect} from 'react'
 import {gsap} from 'gsap'
 import {ScrollTrigger} from 'gsap/ScrollTrigger'
@@ -60,7 +61,7 @@ const About = () => {
          I am dedicated to continuous learning and staying up-to-date with the latest industry trends to deliver innovative solutions that exceed client expectations.
     </h3>
 
-    <img className='lg:h-[25rem] md:h-[25rem] h-[20rem] mb-16 mix-blend-lighten' src="/Images/image.png" 
+    <img className='lg:h-[25rem] md:h-[25rem] h-[20rem] mb-16 mix-blend-lighten' src={image} 
     alt="profile-image" />
 </div>
         

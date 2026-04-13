@@ -1,3 +1,9 @@
+import img1 from "../assets/Images/img1.png"
+import img2 from "../assets/Images/img2.png"
+import img3 from "../assets/Images/img3.png"
+import img4 from "../assets/Images/img4.png"
+import img5 from "../assets/Images/img5.png"
+
 import { useRef, useEffect } from "react" 
 import { gsap } from "gsap"
 import { ScrollTrigger } from "gsap/ScrollTrigger"
@@ -13,34 +19,34 @@ const Project = () => {
  const projectImages = [
   {
     id: 1,
-    image: "public/Images/44.png",
+    image: img1,
     title: "Project 1",
     description: "A brief description of Project 1.",
   },
   {
     id: 2,
-    image: "public/Images/11.jpg",
+    image: img2,
     title: "Project 2",
     description: "A brief description of Project 2.",
   },
   {
     id: 3,
-    image: "public/Images/22.png",
+    image: img3,
     title: "Project 3",
     description: "A brief description of Project 3.",
   },
   {
     id: 4,
-    image: "public/Images/33.png",
-    title: "Project 3",
-    description: "A brief description of Project 3.",
+    image: img4,
+    title: "Project 4",
+    description: "A brief description of Project 4.",
   },
 
   {
     id: 5,
-    image: "public/Images/55.png",
-    title: "Project 4",
-    description: "A brief description of Project 4.",
+    image: img5,
+    title: "Project 5",
+    description: "A brief description of Project 5.",
   }];
 
 
